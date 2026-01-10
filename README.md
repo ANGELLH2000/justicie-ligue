@@ -10,4 +10,4 @@ Pueden hacer lo que quieran...
 Se editó desde GitHub
 
 ### Otra edición pero desde Git
-Se actualizó desde Git
+Se actualizó
