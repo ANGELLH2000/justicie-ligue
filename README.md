@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Edición desde GitHub
 Se editó desde GitHub
+
+### Otra edición pero desde Git
+Se actualizó desde Git
